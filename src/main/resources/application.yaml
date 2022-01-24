@@ -1,0 +1,13 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+           facebook:
+              clientId: ID
+              clientSecret: SECRET
+
+server:
+  port: 8080
+
+            
